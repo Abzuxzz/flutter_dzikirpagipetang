@@ -188,6 +188,8 @@ class TampilPagi extends StatelessWidget {
               arti,
               style: TextStyle(fontSize: 16.0, ) ,
               textAlign: TextAlign.justify,),
+            
+            //minjem buat hacktoberfest
           )
         ],
       ),
